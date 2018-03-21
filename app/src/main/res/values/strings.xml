@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidDemo</string>
+    <string name="test1">测试水平上下滑动普通</string>
+    <string name="test2">测试水平上下滑动拓展</string>
 </resources>

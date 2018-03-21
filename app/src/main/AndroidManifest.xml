@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".testvertialhorizontalscrollview.Test1Activity"/>
+        <activity android:name=".testvertialhorizontalscrollview.Test2Activity"/>
     </application>
 
 </manifest>
